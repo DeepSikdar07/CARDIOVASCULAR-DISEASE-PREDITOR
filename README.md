@@ -1,4 +1,4 @@
-**CARDIOVASCULAR DISEASE PREDICTOR USING MACHINE LEARNING **
+**CARDIOVASCULAR DISEASE PREDICTOR USING MACHINE LEARNING**
 
 **You can take help from**-
 https://www.kaggle.com/code/akankshamhatrenaik/coronary-heart-disease-predictor-with-old-uci-data/notebook
