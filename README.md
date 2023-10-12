@@ -6,4 +6,3 @@
  https://www.kaggle.com/code/akankshamhatrenaik/coronary-heart-disease-predictor-with-old-uci-data/input
 # Resources-
 https://towardsdatascience.com/heart-disease-prediction-73468d630cfc
- https://www.analyticsvidhya.com/blog/2022/02/heart-disease-prediction-using-machine-learning/
